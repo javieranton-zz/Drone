@@ -1,0 +1,5 @@
+C:\Projects\Drone\Drone\bin\Debug\Drone.exe.config
+C:\Projects\Drone\Drone\bin\Debug\Drone.exe
+C:\Projects\Drone\Drone\bin\Debug\Drone.pdb
+C:\Projects\Drone\Drone\obj\Debug\Drone.exe
+C:\Projects\Drone\Drone\obj\Debug\Drone.pdb
